@@ -1,4 +1,4 @@
-# 🏥 MediConnect Pro
+#  Prescripto
 
 ## Revolutionizing Healthcare Management
 
@@ -35,7 +35,7 @@ Built with passion , MediConnect Pro is a cutting-edge healthcare platform that 
 
 ## Here are some references images
 
-## User Sction
+## User Section
 
 ### User Registration & Login
 
@@ -108,9 +108,7 @@ Built with passion , MediConnect Pro is a cutting-edge healthcare platform that 
 
 A modern web application for managing doctors, patients, and appointments. Built with React (Vite), Node.js, Express, and MongoDB.
 
-## Live Demo
 
-[Live Link ](https://hms-frontend.vercel.app)
 
 ## Features
 - Admin and Doctor dashboards
