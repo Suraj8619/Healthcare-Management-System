@@ -2,7 +2,7 @@
 
 ## Revolutionizing Healthcare Management
 
-Built with passion , MediConnect Pro is a cutting-edge healthcare platform that bridges the gap between patients and healthcare providers. Using the power of MERN stack technology, this platform delivers a seamless experience for everyone involved in the healthcare journey.
+Built with passion , Prescripto is a cutting-edge healthcare platform that bridges the gap between patients and healthcare providers. Using the power of MERN stack technology, this platform delivers a seamless experience for everyone involved in the healthcare journey.
 
 ## 🌟 Experience It Live
 
